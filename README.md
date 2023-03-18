@@ -1,5 +1,5 @@
 # Charity aggregator donation contract
-Create a smart contract that distributes a charity donation to a number of different charities with on-chain donation addresses.
+A smart contract that distributes a charity donation to a number of different charities with on-chain donation addresses.
 
 Many charities are starting to offer direct crypto-donation addresses.
 
